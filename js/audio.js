@@ -33,7 +33,7 @@
       $audioPlayer.pause();
     } else {
       $body.addClass('audio-on');
-      $audioPlayer.play();
+      $audioPlayer.pause();
     }
 
     $audio.on('click', function(e) {
