@@ -132,11 +132,11 @@ h6, .h6 {
 
 @font-face {
   font-family: 'pe-icon-7-combo';
-    src: url('http://backup.ajjan.com/fonts/pe-icon-7-combo.woff?10abtg') format('woff'),
-url('http://backup.ajjan.com/fonts/pe-icon-7-combo.ttf?10abtg') format('truetype'),
-    url('http://backup.ajjan.com/fonts/pe-icon-7-combo.svg?10abtg#pe-icon-7-combo') format('svg'),
-    url('http://backup.ajjan.com/fonts/pe-icon-7-combo.eot?10abtg#iefix') format('embedded-opentype');
-  src: url('http://backup.ajjan.com/fonts/pe-icon-7-combo.eot?10abtg');
+    src: url('https://ajjangc.github.io/site/fonts/pe-icon-7-combo.woff?10abtg') format('woff'),
+url('https://ajjangc.github.io/site/fonts/pe-icon-7-combo.ttf?10abtg') format('truetype'),
+    url('https://ajjangc.github.io/site/fonts/pe-icon-7-combo.svg?10abtg#pe-icon-7-combo') format('svg'),
+    url('https://ajjangc.github.io/site/fonts/pe-icon-7-combo.eot?10abtg#iefix') format('embedded-opentype');
+  src: url('https://ajjangc.github.io/site/fonts/pe-icon-7-combo.eot?10abtg');
   font-weight: normal;
   font-style: normal;
 }
