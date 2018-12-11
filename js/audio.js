@@ -32,7 +32,7 @@
       $body.addClass('mobile audio-off');
       $audioPlayer.pause();
     } else {
-      $body.addClass('audio-on');
+      $body.addClass('audio-off');
       $audioPlayer.pause();
     }
 
