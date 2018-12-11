@@ -32,8 +32,8 @@
       $body.addClass('mobile audio-off');
       $audioPlayer.pause();
     } else {
-      $body.addClass('mobile audio-off');
-      $audioPlayer.pause();
+      $body.addClass('audio-on');
+      $audioPlayer.play();
     }
 
     $audio.on('click', function(e) {
