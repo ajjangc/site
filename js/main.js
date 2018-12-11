@@ -133,7 +133,7 @@ Version: 1.0
                     youtube: {
                         index: 'youtube.com/',
                         id: 'v=',
-                        src: 'http://www.youtube.com/embed/%id%?autoplay=1'
+                        src: 'https://www.youtube.com/embed/%id%?autoplay=1'
                     },
                     vimeo: {
                         index: 'vimeo.com/',
@@ -168,7 +168,7 @@ Version: 1.0
             if (isValidEmail(email) && (message.length > 1) && (name.length > 1)) {
                 $.ajax({
                     type: 'POST',
-                    url: 'http://backup.ajjan.com/php/contact.php',
+                    url: 'https://backup.ajjan.com/php/contact.php',
                     data: dataString,
                     success: function() {
                         $(".success").fadeIn(1000);
