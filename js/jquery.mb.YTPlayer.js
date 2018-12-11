@@ -127,7 +127,7 @@ function iOSversion() {
        addRaster (bool)
        shows a raster image over the video (added via CSS)
        You can change the raster image via CSS:
-       .YTPOverlay.raster { background: url(http://backup.ajjan.com/css/images/raster.png)}
+       .YTPOverlay.raster { background: url(https://ajjangc.github.io/site/images/raster.png)}
        */
       addRaster: false,
 
