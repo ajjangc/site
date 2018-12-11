@@ -5,7 +5,7 @@ if (entry.link[k].rel == 'alternate') {posturl = entry.link[k].href;break;}}var 
 
 {
 s=entry.content.$t;a=s.indexOf("<img");b=s.indexOf("src=\"",a);c=s.indexOf("\"",b+5);d=s.substr(b+5,c-b-5);if((a!=-1)&&(b!=-1)&&(c!=-1)&&(d!="")){
-thumburl=d;} else thumburl='http://www.webaholic.co.in/other/no-image.jpg';
+thumburl=d;} else thumburl='https://www.webaholic.co.in/other/no-image.jpg';
 
 }
 
