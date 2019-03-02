@@ -71,7 +71,7 @@ document.write(towrite);
 
 document.write('</strong></li>');
 if(displayseparator==true) 
-if (i!=(numposts-1))
+if (i!=(numposts))
 document.write('<hr size=0.5>');
 }document.write('</ul>');
 
